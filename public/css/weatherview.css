@@ -1,0 +1,31 @@
+/**************************************
+ *
+ *	Weather for city
+ * 
+ *************************************/
+
+
+.weather-city__header {
+	text-transform: capitalize;
+}
+
+.weather-city__hour {
+
+}
+
+.weather-city__time {
+	font-size: 1.2em;
+}
+
+.weather-city__icon {
+
+}
+
+.weather-city__temperature {
+	display: inline-block;
+}
+
+.weather-city__description {
+	display: inline-block;
+	margin-left: 1em;
+}
